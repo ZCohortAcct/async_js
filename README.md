@@ -1,0 +1,3 @@
+-Asyn JS when API uses callbacks vs returning promises for API calls
+-Build out back end that recieves request & frontend that consumes the API
+-Talk about why promises were created & how their make it easier to handle asyn calls
