@@ -1,4 +1,4 @@
-# Live Lecture - Asynchrononous JS Deep Dive into Callbacks & Promises
+# Live Lecture - Asynchronous JS Deep Dive into Callbacks & Promises
 
 ## Objectives
   
